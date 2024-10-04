@@ -1,2 +1,2 @@
 # Delta-Demo
-This is demo Git and GitHub Class.
+This is demo Git and GitHub Class..
